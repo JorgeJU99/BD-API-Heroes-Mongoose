@@ -1,0 +1,20 @@
+{
+  "name": "bd-apiresfull-mongoose",
+  "version": "1.0.0",
+  "description": "Práctica de API Resfull con Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Enrique Jarrin",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
